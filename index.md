@@ -30,5 +30,8 @@ images[C]. IEEE International Conference on Image Processing (ICIP), pp.583-587,
 #### 7. Yakun Niu, Xiaolong Li, Yao Zhao, Rongrong Ni. 
 A mathematical analysis of quantized DCT coefficients and its applications
 to image forensics[C]. National Information Hiding Workshop, 2018.
-#### 8. 牛亚坤, 赵耀, 李晓龙. 
-JPEG 图像被动取证技术研究进展综述 [J]. 信号处理. (中文核心期刊，在审)
+
+#### 8. Xiaoyu Zhao, Yakun Niu, Rongrong Ni, Yao Zhao. 
+Defocused image splicing localization by distinguishing multiple cues
+between raw naturally blur and artificial blur[C]. International Workshop on Digital-forensics and
+Watermarking (IWDW), 2020.
