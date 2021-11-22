@@ -1,13 +1,13 @@
 
 
-### <font color=black>Yakun Niu 牛亚坤</font>
+### <font color=red>Yakun Niu 牛亚坤</font>
 
 I received the Ph.D degree from the Institute of Information Science of Beijing Jiaotong University (BJTU) in 2021, advised by Prof. [Yao Zhao](http://mepro.bjtu.edu.cn/zhaoyao/index.htm). 
 I was a Visiting Student in University of Siena from 2018 to 2019, working with Prof. [Mauro Barni](http://clem.dii.unisi.it/~vipp/mbarni.html) (IEEE Fellow).
 
 
 
-### News
+### <font color=red>News~</font>
 #### One paper is accepted by TIFS.
 ### Publications
 
