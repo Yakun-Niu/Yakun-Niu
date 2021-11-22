@@ -1,6 +1,6 @@
 
 
-### <font face="黑体">Yakun Niu 牛亚坤</font>
+### Yakun Niu 牛亚坤
 
 I received the Ph.D degree from the Institute of Information Science of Beijing Jiaotong University (BJTU) in 2021, advised by Prof. [Yao Zhao](http://mepro.bjtu.edu.cn/zhaoyao/index.htm). 
 I was a Visiting Student in University of Siena from 2018 to 2019, working with Prof. [Mauro Barni](http://clem.dii.unisi.it/~vipp/mbarni.html) (IEEE Fellow).
@@ -8,10 +8,10 @@ I was a Visiting Student in University of Siena from 2018 to 2019, working with 
 
 
 ### <font color=red>News~</font>
-#### <font face="黑体">One paper is accepted by TIFS.</font>
-### <font face="黑体">Publications</font>
+#### One paper is accepted by TIFS.
+### Publications
 
-#### <font face="黑体">1. Yakun Niu, Benedetta Tondi, Rongrong Ni, Yao Zhao, Mauro Barni. </font>
+#### 1. Yakun Niu, Benedetta Tondi, Rongrong Ni, Yao Zhao, Mauro Barni.
 Image splicing detection, localization and attribution via JPEG primary quantization matrix estimation and clustering[J]. IEEE Transactions on
 Information Forensics and Security (TIFS), 2021, Accepted.[[PDF]](https://ieeexplore.ieee.org/document/9622213/)
 #### 2. Yakun Niu, Xiaolong Li, Yao Zhao, Rongrong Ni. 
