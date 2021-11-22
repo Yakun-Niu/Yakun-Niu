@@ -11,10 +11,10 @@ I was a Visiting Student in University of Siena from 2018 to 2019, working with 
 
 #### 1. Yakun Niu, Benedetta Tondi, Rongrong Ni, Yao Zhao, Mauro Barni. 
 Image splicing detection, localization and attribution via JPEG primary quantization matrix estimation and clustering[J]. IEEE Transactions on
-Information Forensics and Security (TIFS), 2021, Accepted.[PDF](https://ieeexplore.ieee.org/document/9622213/)
+Information Forensics and Security (TIFS), 2021, Accepted.[[PDF]](https://ieeexplore.ieee.org/document/9622213/)
 #### 2. Yakun Niu, Xiaolong Li, Yao Zhao, Rongrong Ni. 
 Detection of double JPEG compression with the same quantization matrix via convergence analysis[J]. IEEE Transactions on Circuits and Systems for Video Technology (TCSVT),
-DOI: 10.1109/TCSVT.2021.3097351.[PDF](https://ieeexplore.ieee.org/document/9486879)
+DOI: 10.1109/TCSVT.2021.3097351.[[PDF]](https://ieeexplore.ieee.org/document/9486879)
 #### 3. Yakun Niu, Benedetta Tondi, Yao Zhao, Mauro Barni. 
 Primary quantization matrix estimation of double
 compressed JPEG images via CNN[J]. IEEE Signal Processing Letters (SPL), 2020, 27: 191-195.[PDF](https://ieeexplore.ieee.org/document/8945385)
