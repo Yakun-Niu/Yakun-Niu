@@ -17,7 +17,7 @@ Detection of double JPEG compression with the same quantization matrix via conve
 DOI: 10.1109/TCSVT.2021.3097351.[[PDF]](https://ieeexplore.ieee.org/document/9486879)
 #### 3. Yakun Niu, Benedetta Tondi, Yao Zhao, Mauro Barni. 
 Primary quantization matrix estimation of double
-compressed JPEG images via CNN[J]. IEEE Signal Processing Letters (SPL), 2020, 27: 191-195.[[PDF]](https://ieeexplore.ieee.org/document/8945385)
+compressed JPEG images via CNN[J]. IEEE Signal Processing Letters (SPL), 2020, 27: 191-195.[[PDF]](https://ieeexplore.ieee.org/document/8945385)[(Code)](https://github.com/andreacos/CnnJpegPrimaryQuantizationEstimation)
 #### 4. Yakun Niu, Yao Zhao, Rongrong Ni. 
 Robust median filtering detection based on local difference descriptor[J]. Signal
 Processing: Image Communication (SPIC), 2017, 53: 65-72. 
