@@ -22,13 +22,13 @@ Primary quantization matrix estimation of double
 compressed JPEG images via CNN[J]. IEEE Signal Processing Letters (SPL), 2020, 27: 191-195.[[PDF]](https://ieeexplore.ieee.org/document/8945385)[(Code)](https://github.com/andreacos/CnnJpegPrimaryQuantizationEstimation)
 #### <font color=black>4. Yakun Niu, Yao Zhao, Rongrong Ni. </font>
 Robust median filtering detection based on local difference descriptor[J]. Signal
-Processing: Image Communication (SPIC), 2017, 53: 65-72. 
+Processing: Image Communication (SPIC), 2017, 53: 65-72.[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0923596517300073)
 #### <font color=black>5. Yakun Niu, Xiaolong Li, Yao Zhao, Rongrong Ni. </font>
 An enhanced approach for detecting double JPEG compression with the
-same quantization matrix[J]. Signal Processing: Image Communication (SPIC), 2019, 76: 89-96. 
+same quantization matrix[J]. Signal Processing: Image Communication (SPIC), 2019, 76: 89-96.[[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0923596518309196) 
 #### <font color=black>6. Yakun Niu, Xiaolong Li, Yao Zhao, Rongrong Ni. </font>
 Primary quality factor estimation of resized double compressed JPEG
-images[C]. IEEE International Conference on Image Processing (ICIP), pp.583-587, 2020.
+images[C]. IEEE International Conference on Image Processing (ICIP), pp.583-587, 2020.[[PDF]](https://ieeexplore.ieee.org/abstract/document/9190913/) 
 #### <font color=black>7. Yakun Niu, Xiaolong Li, Yao Zhao, Rongrong Ni. 
 A mathematical analysis of quantized DCT coefficients and its applications
 to image forensics[C]. National Information Hiding Workshop, 2018.
@@ -37,3 +37,6 @@ to image forensics[C]. National Information Hiding Workshop, 2018.
 Defocused image splicing localization by distinguishing multiple cues
 between raw naturally blur and artificial blur[C]. International Workshop on Digital-forensics and
 Watermarking (IWDW), 2020.
+  
+#### <font color=black>9. 牛亚坤, 赵耀, 李晓龙. 
+	JPEG图像被动取证研究进展综述[J]. 信号处理, 2021.
