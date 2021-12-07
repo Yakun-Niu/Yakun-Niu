@@ -11,7 +11,7 @@ I was a Visiting Student in University of Siena from 2018 to 2019, working with 
 #### <font color=black>One paper has been accepted by IEEE TIFS.</font>
 ### <font color=black>Publications</font>
 
-#### <font color=black>1. <u>Yakun Niu</u>, Benedetta Tondi, Rongrong Ni, Yao Zhao, Mauro Barni.</font>
+#### 1. <font color=black>Yakun Niu</font>, Benedetta Tondi, Rongrong Ni, Yao Zhao, Mauro Barni.
 Image splicing detection, localization and attribution via JPEG primary quantization matrix estimation and clustering[J]. IEEE Transactions on
 Information Forensics and Security (TIFS), 2021, Accepted.[[PDF]](https://ieeexplore.ieee.org/document/9622213/)
 #### <font color=black>2. Yakun Niu, Xiaolong Li, Yao Zhao, Rongrong Ni. </font>
