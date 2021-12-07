@@ -39,4 +39,4 @@ between raw naturally blur and artificial blur[C]. International Workshop on Dig
 Watermarking (IWDW), 2020.
   
 #### <font color=black>9. 牛亚坤, 赵耀, 李晓龙. 
-	JPEG图像被动取证研究进展综述[J]. 信号处理, 2021.
+JPEG图像被动取证研究进展综述[J]. 信号处理, 2021.
