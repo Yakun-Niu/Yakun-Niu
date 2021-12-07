@@ -8,7 +8,7 @@ I was a Visiting Student in University of Siena from 2018 to 2019, working with 
 
 
 ### <font color=red>News~</font>
-#### <font color=black>One paper is accepted by IEEE TIFS.</font>
+#### <font color=black>One paper has been accepted by IEEE TIFS.</font>
 ### <font color=black>Publications</font>
 
 #### <font color=black>1. Yakun Niu, Benedetta Tondi, Rongrong Ni, Yao Zhao, Mauro Barni.</font>
